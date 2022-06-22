@@ -10,8 +10,8 @@ Catalogs and color images uploaded to Box:
 https://stsci.box.com/s/8wk3jmh3u1op7vnltkvfiro7k55d7t5a  
 
 Notebooks here on Github:  
-* Color images – (Trilogy: updated for Python 3 notebook)  
-* NIRCam PSF-matched multiband photometry – (Astropy.photutils)  
+* Color images – (Trilogy)  
+* NIRCam PSF-matched multiband photometry – (Astropy Photutils)  
 * Photometric redshifts and physical parameters – (EAZY)
 
 To do list:  
