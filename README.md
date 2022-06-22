@@ -15,9 +15,10 @@ Notebooks here on Github:
 * Photometric redshifts and physical parameters – (EAZY)
 
 To do list:  
+☐ Distinguish stars (brown dwarfs) from galaxies (as in LePhare)  
+☐ Use HST photometry in SED fitting    
 ☐ Results notebook  
 ☐ BAGPIPES notebook  
-☐ Distinguish stars (brown dwarfs) from galaxies (as in LePhare)  
 
 ![CEERS SDR3 color image](ceers5_color_small.jpg)
 
