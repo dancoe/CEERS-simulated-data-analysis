@@ -18,3 +18,7 @@ To do list:
 ☐ Results notebook  
 ☐ BAGPIPES notebook  
 ☐ Distinguish stars (brown dwarfs) from galaxies (as in LePhare)  
+
+![CEERS SDR3 color image](ceers5_color_small.jpg)
+
+![photometric redshifts](CEERS_EAZY_zphot.png)
