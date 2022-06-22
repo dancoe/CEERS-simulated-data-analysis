@@ -17,6 +17,7 @@ Notebooks here on Github:
 To do list:  
 ☐ Distinguish stars (brown dwarfs) from galaxies (as in LePhare)  
 ☐ Remove stellar diffraction spike detections (machine learning?)  
+☐ Optimize catalog to ensure we detect the faintest objects  
 ☐ Add HST photometry to SED fitting    
 ☐ Upload results notebook  
 ☐ Upload BAGPIPES notebook  
