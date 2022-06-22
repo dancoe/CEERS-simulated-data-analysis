@@ -16,9 +16,10 @@ Notebooks here on Github:
 
 To do list:  
 ☐ Distinguish stars (brown dwarfs) from galaxies (as in LePhare)  
-☐ Use HST photometry in SED fitting    
-☐ Results notebook  
-☐ BAGPIPES notebook  
+☐ Remove stellar diffraction spike detections (machine learning?)  
+☐ Add HST photometry to SED fitting    
+☐ Upload results notebook  
+☐ Upload BAGPIPES notebook  
 
 ![CEERS SDR3 color image](ceers5_color_small.jpg)
 
