@@ -23,3 +23,5 @@ To do list:
 ![CEERS SDR3 color image](ceers5_color_small.jpg)
 
 ![photometric redshifts](CEERS_EAZY_zphot.png)
+
+![photometric redshifts given input photometry](CEERS_SAM-input-phot_EAZY_zphot.png)
