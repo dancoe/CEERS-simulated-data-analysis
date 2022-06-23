@@ -13,6 +13,7 @@ Notebooks here on Github:
 * Color images – (Trilogy)  
 * NIRCam PSF-matched multiband photometry – (Astropy Photutils)  
 * Photometric redshifts and physical parameters – (EAZY)
+* Catalog explorer (input vs. output colors & photo-z's; SED plots; SNR vs. mag; show galaxy in all filters)
 
 To do list:  
 ☐ Distinguish stars (brown dwarfs) from galaxies (as in LePhare)  
