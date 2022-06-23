@@ -20,7 +20,6 @@ To do list:
 ☐ Remove stellar diffraction spike detections (machine learning?)  
 ☐ Optimize catalog to ensure we detect the faintest objects  
 ☐ Add HST photometry to SED fitting    
-☐ Upload results notebook  
 ☐ Upload BAGPIPES notebook  
 
 ![CEERS SDR3 color image](ceers5_color_small.jpg)
